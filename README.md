@@ -12,6 +12,7 @@ Predict Survival on Titanic
 
 
 ##male and female survival
+
 ![2021-06-28 (5)](https://user-images.githubusercontent.com/64741151/123654587-81a37300-d82e-11eb-9842-331e5922bbb8.png)
 ![2021-06-28 (6)](https://user-images.githubusercontent.com/64741151/123654591-82d4a000-d82e-11eb-9af7-94c152bd064b.png)
 ![2021-06-28 (7)](https://user-images.githubusercontent.com/64741151/123654595-8405cd00-d82e-11eb-8231-092fde9f3e9f.png)
