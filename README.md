@@ -1,7 +1,8 @@
 # Titanic--Machine-learning-from-Disaster
 Predict Survival on Titanic
 
-##test and train data info.
+##test and train data info
+
 ![2021-06-28 (1)](https://user-images.githubusercontent.com/64741151/123654172-1a85be80-d82e-11eb-83dd-046f6fe2328b.png)
 ![2021-06-28 (2)](https://user-images.githubusercontent.com/64741151/123654175-1bb6eb80-d82e-11eb-9774-75b8eb2719f5.png)
 
