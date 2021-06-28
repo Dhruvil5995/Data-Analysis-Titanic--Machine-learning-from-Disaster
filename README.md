@@ -24,12 +24,12 @@ Predict Survival on Titanic
 ## remove unnecessary information from dataset
 ![2021-06-28 (8)](https://user-images.githubusercontent.com/64741151/123655197-11e1b800-d82f-11eb-8f08-e639125e0e42.png)
 
-## mapping sex- 1 for male and 0 for female
+## Mapping sex- 1 for male and 0 for female
 ![2021-06-28 (9)](https://user-images.githubusercontent.com/64741151/123655204-1312e500-d82f-11eb-8ae0-109eb970ef6b.png)
 
 ## create independent and dependent variable for training
 ![2021-06-28 (17)](https://user-images.githubusercontent.com/64741151/123657238-ebbd1780-d830-11eb-85fd-57652ea1ec5d.png)
-![2021-06-28 (18)](https://user-images.githubusercontent.com/64741151/123657243-ec55ae00-d830-11eb-8727-45b5e60b74c7.png)
+
 
 
 ## find accuracy for decision tree model
@@ -38,8 +38,8 @@ Predict Survival on Titanic
 
 
 
-## apply decision tree model on training data and predict test data
-
+## Apply decision tree model on training data and predict test data
+![2021-06-28 (18)](https://user-images.githubusercontent.com/64741151/123657243-ec55ae00-d830-11eb-8727-45b5e60b74c7.png)
 ## predicted result
 ![2021-06-28 (15)](https://user-images.githubusercontent.com/64741151/123656054-dd223080-d82f-11eb-9d17-71bc0b067d1f.png)
 
