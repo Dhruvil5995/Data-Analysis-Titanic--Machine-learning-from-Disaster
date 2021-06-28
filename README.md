@@ -27,12 +27,16 @@ Predict Survival on Titanic
 ## mapping sex- 1 for male and 0 for female
 ![2021-06-28 (9)](https://user-images.githubusercontent.com/64741151/123655204-1312e500-d82f-11eb-8ae0-109eb970ef6b.png)
 
+## create independent and dependent variable for training
+
 ## find accuracy for decision tree model
 
 ![2021-06-28 (12)](https://user-images.githubusercontent.com/64741151/123656044-db586d00-d82f-11eb-8b12-6078dc65f9e1.png)
 
-## apply decision tree model and predict test data
-![2021-06-28 (13)](https://user-images.githubusercontent.com/64741151/123656048-dc899a00-d82f-11eb-8147-ab17af0c605f.png)
+
+
+## apply decision tree model on training data and predict test data
+
 ## predicted result
 ![2021-06-28 (15)](https://user-images.githubusercontent.com/64741151/123656054-dd223080-d82f-11eb-9d17-71bc0b067d1f.png)
 
