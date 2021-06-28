@@ -18,4 +18,13 @@ Predict Survival on Titanic
 ![2021-06-28 (7)](https://user-images.githubusercontent.com/64741151/123654595-8405cd00-d82e-11eb-8231-092fde9f3e9f.png)
 
 
+## Fill Missing value 
+![2021-06-28 (10)](https://user-images.githubusercontent.com/64741151/123655160-068e8c80-d82f-11eb-8b8d-a34c5b4b2b38.png)
+
+![2021-06-28 (8)](https://user-images.githubusercontent.com/64741151/123655197-11e1b800-d82f-11eb-8f08-e639125e0e42.png)
+
+![2021-06-28 (9)](https://user-images.githubusercontent.com/64741151/123655204-1312e500-d82f-11eb-8ae0-109eb970ef6b.png)
+
+
+
 
