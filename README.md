@@ -28,6 +28,9 @@ Predict Survival on Titanic
 ![2021-06-28 (9)](https://user-images.githubusercontent.com/64741151/123655204-1312e500-d82f-11eb-8ae0-109eb970ef6b.png)
 
 ## create independent and dependent variable for training
+![2021-06-28 (17)](https://user-images.githubusercontent.com/64741151/123657238-ebbd1780-d830-11eb-85fd-57652ea1ec5d.png)
+![2021-06-28 (18)](https://user-images.githubusercontent.com/64741151/123657243-ec55ae00-d830-11eb-8727-45b5e60b74c7.png)
+
 
 ## find accuracy for decision tree model
 
