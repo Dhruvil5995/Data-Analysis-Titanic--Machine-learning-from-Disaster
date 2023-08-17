@@ -1,4 +1,4 @@
-# Titanic--Machine-learning-from-Disaster
+# Data Analysis: Titanic--Machine-learning-from-Disaster
 Predict Survival on Titanic
 
 ## test and train data info
